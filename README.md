@@ -5,11 +5,11 @@ A personal collection of custom React Native components for reuse across project
 ## Run locally
 
 ```sh
-npm ci
-npm start
+pnpm install --frozen-lockfile
+pnpm start
 ```
 
-Press `i` to open the iOS simulator or `a` to open the Android emulator. Run `npm run typecheck` to check the TypeScript code.
+Press `i` to open the iOS simulator or `a` to open the Android emulator. Run `pnpm typecheck` to check the TypeScript code.
 
 ## Add a component
 
