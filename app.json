@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "My Components",
+    "slug": "my-components",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
+    "scheme": "my-components",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
